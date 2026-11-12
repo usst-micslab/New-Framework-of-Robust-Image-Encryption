@@ -1,0 +1,10 @@
+torch==2.7.1
+torchvision==0.22.1
+numpy==1.26.4
+Pillow
+matplotlib
+opencv-python>=4.7,<4.12
+pytorch-msssim==1.0.0
+tensorboard
+PyYAML
+easydict==1.13
